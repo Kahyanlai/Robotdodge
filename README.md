@@ -1,4 +1,4 @@
-# 🤖 Robot Dodge Game (Enhanced Version)
+# 🤖 Robot Dodge Game 
 
 A 2D game built with C# and SplashKit that challenges players to dodge robots, track their score, and shoot down enemies using bullets. This enhanced version introduces lives, scoring, and shooting mechanics to increase interactivity and gameplay depth.
 
