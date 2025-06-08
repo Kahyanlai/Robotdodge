@@ -1,0 +1,14 @@
+/Users/michellelai/Documents/code/Robotdotge2/bin/Debug/net8.0/Robotdotge2
+/Users/michellelai/Documents/code/Robotdotge2/bin/Debug/net8.0/Robotdotge2.deps.json
+/Users/michellelai/Documents/code/Robotdotge2/bin/Debug/net8.0/Robotdotge2.runtimeconfig.json
+/Users/michellelai/Documents/code/Robotdotge2/bin/Debug/net8.0/Robotdotge2.dll
+/Users/michellelai/Documents/code/Robotdotge2/bin/Debug/net8.0/Robotdotge2.pdb
+/Users/michellelai/Documents/code/Robotdotge2/obj/Debug/net8.0/Robotdotge2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michellelai/Documents/code/Robotdotge2/obj/Debug/net8.0/Robotdotge2.AssemblyInfoInputs.cache
+/Users/michellelai/Documents/code/Robotdotge2/obj/Debug/net8.0/Robotdotge2.AssemblyInfo.cs
+/Users/michellelai/Documents/code/Robotdotge2/obj/Debug/net8.0/Robotdotge2.csproj.CoreCompileInputs.cache
+/Users/michellelai/Documents/code/Robotdotge2/obj/Debug/net8.0/Robotdotge2.dll
+/Users/michellelai/Documents/code/Robotdotge2/obj/Debug/net8.0/refint/Robotdotge2.dll
+/Users/michellelai/Documents/code/Robotdotge2/obj/Debug/net8.0/Robotdotge2.pdb
+/Users/michellelai/Documents/code/Robotdotge2/obj/Debug/net8.0/Robotdotge2.genruntimeconfig.cache
+/Users/michellelai/Documents/code/Robotdotge2/obj/Debug/net8.0/ref/Robotdotge2.dll
